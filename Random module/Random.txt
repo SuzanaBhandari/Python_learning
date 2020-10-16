@@ -1,0 +1,4 @@
+Random module 
+1. Useful when we want to add unpredictability to games and also used for cryptography
+
+
